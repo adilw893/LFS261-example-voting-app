@@ -1,6 +1,8 @@
 Example Voting App
 =========
 
+test edit to see if build skips stages (not in worker directory)
+
 Getting started
 ---------------
 
